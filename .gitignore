@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+*.parquet
+.DS_Store
+data/settings.json
+.venv/
+data/training_data.csv
+data/processed.parquet
+data/settings.json
+data/.DS_Store
+.streamlit/secrets.toml

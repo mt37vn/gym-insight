@@ -1,0 +1,1171 @@
+{
+  "Bench Press": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Smith Machine Bench Press": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Decline Bench Press": [
+    [
+      "Chest: Lower"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Incline Dumbbell Press": [
+    [
+      "Chest: Upper"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Dumbbell Bench Press": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Leverage Machine Chest Press": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Machine Chest Press": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Dumbbell Chest Press": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Dumbbell Decline Chest Press": [
+    [
+      "Chest: Lower"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Incline Bench Press": [
+    [
+      "Chest: Upper"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Smith Machine Incline Bench Press": [
+    [
+      "Chest: Upper"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Standing Cable Chest Fly (Upper Position)": [
+    [
+      "Chest: Upper"
+    ],
+    [
+      "Shoulders: Front"
+    ]
+  ],
+  "Standing Cable Chest Fly (Middle Position)": [
+    [
+      "Chest: Middle"
+    ],
+    []
+  ],
+  "Standing Cable Chest Fly (Lower Position)": [
+    [
+      "Chest: Lower"
+    ],
+    []
+  ],
+  "Dumbbell Incline Chest Fly": [
+    [
+      "Chest: Upper"
+    ],
+    []
+  ],
+  "Incline Cable Chest Fly": [
+    [
+      "Chest: Upper"
+    ],
+    []
+  ],
+  "Incline Dumbbell Chest Fly": [
+    [
+      "Chest: Upper"
+    ],
+    []
+  ],
+  "Dumbbell Chest Fly": [
+    [
+      "Chest: Middle"
+    ],
+    []
+  ],
+  "Machine Chest Fly": [
+    [
+      "Chest: Middle"
+    ],
+    []
+  ],
+  "Cable Crossover": [
+    [
+      "Chest: Middle"
+    ],
+    []
+  ],
+  "Push Up": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Push-Up": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Dip": [
+    [
+      "Chest: Lower"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Bar Dip": [
+    [
+      "Chest: Lower"
+    ],
+    [
+      "Triceps",
+      "Shoulders: Front"
+    ]
+  ],
+  "Dip Machine": [
+    [
+      "Chest: Lower"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Pullover": [
+    [
+      "Chest: Middle"
+    ],
+    [
+      "Back: Lats"
+    ]
+  ],
+  "Lat Pulldown": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Leverage Machine Lat Pulldown": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Machine Lat Pulldown": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Close-Grip Lat Pulldown": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Lat Pulldown With Supinated Grip": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Lat Pulldown With Neutral Grip": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Lat Pulldown with Neutral Grip": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Neutral Close-Grip Lat Pulldown": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "One-Arm Lat Pulldown": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Straight Arm Lat Pulldown": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Assisted Pull-Up": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Pull Up": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Pull-Up": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Chin Up": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Chin-Up": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Barbell Row": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps",
+      "Shoulders: Rear"
+    ]
+  ],
+  "Pendlay Row": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps",
+      "Shoulders: Rear"
+    ]
+  ],
+  "Dumbbell Row": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps",
+      "Shoulders: Rear"
+    ]
+  ],
+  "Leverage Seated Machine Row": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps",
+      "Shoulders: Rear"
+    ]
+  ],
+  "Leverage Seated Machine Row (2 Arms)": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps",
+      "Shoulders: Rear"
+    ]
+  ],
+  "Seated Machine Row": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Cable Close-Grip Seated Row": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Cable Wide Grip Seated Row": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps"
+    ]
+  ],
+  "Rowing (Machine)": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Biceps",
+      "Shoulders: Rear"
+    ]
+  ],
+  "Face Pull": [
+    [
+      "Back: Traps",
+      "Shoulders: Rear"
+    ],
+    []
+  ],
+  "Barbell Upright Row": [
+    [
+      "Back: Traps"
+    ],
+    [
+      "Shoulders: Side",
+      "Shoulders: Front"
+    ]
+  ],
+  "Y Rise": [
+    [
+      "Back: Traps"
+    ],
+    [
+      "Shoulders: Rear"
+    ]
+  ],
+  "Deadlift": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes",
+      "Hamstrings",
+      "Core: Lower"
+    ]
+  ],
+  "Trap Bar Deadlift With Low Handles": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Trap Bar Deadlift With High Handles": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Rack Pull": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Good Morning": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Hamstrings",
+      "Glutes"
+    ]
+  ],
+  "Back Extension": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Back Extension on Roman chair": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Machine Back Extension": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes"
+    ]
+  ],
+  "Reverse Hyperextension": [
+    [
+      "Back: Lower"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Reverse Dumbbell Flyes": [
+    [
+      "Back: Rhomboids",
+      "Shoulders: Rear"
+    ],
+    []
+  ],
+  "Reverse Machine Fly": [
+    [
+      "Back: Rhomboids",
+      "Shoulders: Rear"
+    ],
+    []
+  ],
+  "Cable Rear Delt Row": [
+    [
+      "Back: Rhomboids",
+      "Shoulders: Rear"
+    ],
+    []
+  ],
+  "Barbell Rear Delt Row": [
+    [
+      "Back: Rhomboids",
+      "Shoulders: Rear"
+    ],
+    []
+  ],
+  "Reverse Dumbbell Flyes on Incline Bench": [
+    [
+      "Back: Rhomboids",
+      "Shoulders: Rear"
+    ],
+    []
+  ],
+  "Seated Barbell Overhead Press": [
+    [
+      "Shoulders: Front"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Seated Smith Machine Shoulder Press": [
+    [
+      "Shoulders: Front"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Dumbbell Shoulder Press": [
+    [
+      "Shoulders: Front"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Seated Dumbbell Shoulder Press": [
+    [
+      "Shoulders: Front"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Machine Shoulder Press": [
+    [
+      "Shoulders: Front"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Overhead Press": [
+    [
+      "Shoulders: Front"
+    ],
+    [
+      "Triceps"
+    ]
+  ],
+  "Arnold Press": [
+    [
+      "Shoulders: Front"
+    ],
+    [
+      "Shoulders: Side",
+      "Triceps"
+    ]
+  ],
+  "Front Raise": [
+    [
+      "Shoulders: Front"
+    ],
+    []
+  ],
+  "Lateral Raise": [
+    [
+      "Shoulders: Side"
+    ],
+    []
+  ],
+  "Dumbbell Lateral Raise": [
+    [
+      "Shoulders: Side"
+    ],
+    []
+  ],
+  "Cable Lateral Raise": [
+    [
+      "Shoulders: Side"
+    ],
+    []
+  ],
+  "Crunch": [
+    [
+      "Core: Upper"
+    ],
+    []
+  ],
+  "Machine Crunch": [
+    [
+      "Core: Upper"
+    ],
+    []
+  ],
+  "Cable Crunch": [
+    [
+      "Core: Upper"
+    ],
+    []
+  ],
+  "Ab bench": [
+    [
+      "Core: Upper"
+    ],
+    []
+  ],
+  "Kneeling Ab Wheel": [
+    [
+      "Core: Upper"
+    ],
+    []
+  ],
+  "Hanging Leg Raise": [
+    [
+      "Core: Lower"
+    ],
+    [
+      "Hip Flexors"
+    ]
+  ],
+  "Lying Leg Raise": [
+    [
+      "Core: Lower"
+    ],
+    [
+      "Hip Flexors"
+    ]
+  ],
+  "Hanging Knee Raise": [
+    [
+      "Core: Lower"
+    ],
+    []
+  ],
+  "Leg Raise": [
+    [
+      "Core: Lower"
+    ],
+    []
+  ],
+  "Plank": [
+    [
+      "Core: Upper"
+    ],
+    []
+  ],
+  "Pallof Press": [
+    [
+      "Core: Upper"
+    ],
+    []
+  ],
+  "Cable High to Low Wood Chop": [
+    [
+      "Core: Obliques"
+    ],
+    []
+  ],
+  "Cable Low to High Wood Chop": [
+    [
+      "Core: Obliques"
+    ],
+    []
+  ],
+  "Cable Horizontal Wood Chop": [
+    [
+      "Core: Obliques"
+    ],
+    []
+  ],
+  "Oblique Crunch": [
+    [
+      "Core: Obliques"
+    ],
+    []
+  ],
+  "Dumbbell Side Bend": [
+    [
+      "Core: Obliques"
+    ],
+    []
+  ],
+  "Hanging Windshield Wiper": [
+    [
+      "Core: Obliques"
+    ],
+    [
+      "Core: Lower"
+    ]
+  ],
+  "Barbell Curl": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Dumbbell Curl": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Incline Dumbbell Curl": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Machine Biceps Curl": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Cable Bicep Curl": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Cable Curl With Bar": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Cable Curl With Rope": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Barbell Preacher Curl": [
+    [
+      "Biceps"
+    ],
+    []
+  ],
+  "Reverse Preacher Curl": [
+    [
+      "Biceps"
+    ],
+    [
+      "Forearms"
+    ]
+  ],
+  "Hammer Curl": [
+    [
+      "Biceps"
+    ],
+    [
+      "Forearms"
+    ]
+  ],
+  "Triceps Pushdown With Rope": [
+    [
+      "Triceps"
+    ],
+    []
+  ],
+  "Triceps Pushdown With Bar": [
+    [
+      "Triceps"
+    ],
+    []
+  ],
+  "Machine Triceps Press": [
+    [
+      "Triceps"
+    ],
+    []
+  ],
+  "Overhead Triceps Extension": [
+    [
+      "Triceps"
+    ],
+    []
+  ],
+  "Overhead Cable Triceps Extension": [
+    [
+      "Triceps"
+    ],
+    []
+  ],
+  "Overhead Cable Triceps Extension (with bar)": [
+    [
+      "Triceps"
+    ],
+    []
+  ],
+  "Dumbbell Lying Triceps Extension": [
+    [
+      "Triceps"
+    ],
+    []
+  ],
+  "Close-Grip Bench Press": [
+    [
+      "Triceps"
+    ],
+    [
+      "Chest: Middle",
+      "Shoulders: Front"
+    ]
+  ],
+  "Smith Machine Close-Grip Bench Press": [
+    [
+      "Triceps"
+    ],
+    [
+      "Chest: Middle",
+      "Shoulders: Front"
+    ]
+  ],
+  "Bench Dip": [
+    [
+      "Triceps"
+    ],
+    [
+      "Chest: Lower"
+    ]
+  ],
+  "Bar Hang": [
+    [
+      "Forearms"
+    ],
+    [
+      "Back: Lats"
+    ]
+  ],
+  "Gripper": [
+    [
+      "Forearms"
+    ],
+    []
+  ],
+  "Squat": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Core: Lower"
+    ]
+  ],
+  "Smith Machine Squat": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Core: Lower"
+    ]
+  ],
+  "Front Squat": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Core: Lower"
+    ]
+  ],
+  "Goblet Squat": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Core: Lower"
+    ]
+  ],
+  "Overhead Squat": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Core: Lower",
+      "Shoulders: Front"
+    ]
+  ],
+  "Bulgarian Split Squat": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Bulgarian Split Squat (Bodyweight)": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Barbell Lunge": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Barbell Walking Lunges": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Dumbbell Lunge": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Smith Machine Lunge": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Leg Press": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Seated Leg Press": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Single Leg Leg Press": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "One-Legged Leg Press": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "One-Legged Seated Leg Press": [
+    [
+      "Quads"
+    ],
+    [
+      "Glutes",
+      "Hamstrings"
+    ]
+  ],
+  "Leg Extension": [
+    [
+      "Quads"
+    ],
+    []
+  ],
+  "Sled Push": [
+    [
+      "Quads"
+    ],
+    [
+      "Calves",
+      "Glutes"
+    ]
+  ],
+  "Seated Leg Curl": [
+    [
+      "Hamstrings"
+    ],
+    []
+  ],
+  "Lying Leg Curl": [
+    [
+      "Hamstrings"
+    ],
+    []
+  ],
+  "Romanian Deadlift": [
+    [
+      "Hamstrings"
+    ],
+    [
+      "Glutes",
+      "Back: Lower"
+    ]
+  ],
+  "Dumbbell Romanian Deadlift": [
+    [
+      "Hamstrings"
+    ],
+    [
+      "Glutes",
+      "Back: Lower"
+    ]
+  ],
+  "Smith Machine Romanian Deadlift": [
+    [
+      "Hamstrings"
+    ],
+    [
+      "Glutes",
+      "Back: Lower"
+    ]
+  ],
+  "Stiff-Legged Deadlift": [
+    [
+      "Hamstrings"
+    ],
+    [
+      "Glutes",
+      "Back: Lower"
+    ]
+  ],
+  "Hip Thrust": [
+    [
+      "Glutes"
+    ],
+    [
+      "Hamstrings"
+    ]
+  ],
+  "Hip Abduction Machine": [
+    [
+      "Glutes"
+    ],
+    []
+  ],
+  "Hip Adduction Machine": [
+    [
+      "Glutes"
+    ],
+    []
+  ],
+  "Seated Calf Raise": [
+    [
+      "Calves"
+    ],
+    []
+  ],
+  "Standing Calf Raise": [
+    [
+      "Calves"
+    ],
+    []
+  ],
+  "Calf Press": [
+    [
+      "Calves"
+    ],
+    []
+  ],
+  "Calf Raise in Leg Press": [
+    [
+      "Calves"
+    ],
+    []
+  ],
+  "Calf press on Leg press": [
+    [
+      "Calves"
+    ],
+    []
+  ],
+  "Smith Machine Calf Raise": [
+    [
+      "Calves"
+    ],
+    []
+  ],
+  "Cycling": [
+    [
+      "Quads"
+    ],
+    [
+      "Hamstrings"
+    ]
+  ],
+  "Running": [
+    [
+      "Quads"
+    ],
+    [
+      "Hamstrings",
+      "Calves"
+    ]
+  ],
+  "Swimming": [
+    [
+      "Back: Lats"
+    ],
+    [
+      "Shoulders: Front",
+      "Chest: Middle"
+    ]
+  ]
+}
